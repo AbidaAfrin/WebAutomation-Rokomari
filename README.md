@@ -1,6 +1,5 @@
 # WebAutomation-Rokomari
- Rokomari website automation with selenium
-
+Rokomari.com (Bengali: রকমারি.কম) is a Bangladeshi e-commerce site.This GitHub repository contains the web automation testing documentation for this Online Shopping Portal
 ## 💻Technology Used
 - **Programming Language**: Java
 - **Browser Automation**: Selenium Webdriver
